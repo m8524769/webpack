@@ -1,0 +1,277 @@
+[
+	{
+		"path": "$ROOTPATH$/bin/webpack.js",
+		"bookmarks": [
+			{
+				"line": 155,
+				"column": 1,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/Compilation.js",
+		"bookmarks": [
+			{
+				"line": 582,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 685,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 701,
+				"column": 2,
+				"label": ""
+			},
+			{
+				"line": 757,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 824,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 832,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 924,
+				"column": 14,
+				"label": ""
+			},
+			{
+				"line": 951,
+				"column": 13,
+				"label": ""
+			},
+			{
+				"line": 995,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 1057,
+				"column": 12,
+				"label": ""
+			},
+			{
+				"line": 1073,
+				"column": 11,
+				"label": ""
+			},
+			{
+				"line": 1104,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 1126,
+				"column": 7,
+				"label": ""
+			},
+			{
+				"line": 1256,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 1272,
+				"column": 22,
+				"label": ""
+			},
+			{
+				"line": 1288,
+				"column": 2,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/SingleEntryPlugin.js",
+		"bookmarks": [
+			{
+				"line": 45,
+				"column": 4,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/EntryOptionPlugin.js",
+		"bookmarks": [
+			{
+				"line": 21,
+				"column": 13,
+				"label": ""
+			},
+			{
+				"line": 23,
+				"column": 12,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/WebpackOptionsApply.js",
+		"bookmarks": [
+			{
+				"line": 289,
+				"column": 6,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/MultiEntryPlugin.js",
+		"bookmarks": [
+			{
+				"line": 52,
+				"column": 4,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/NormalModule.js",
+		"bookmarks": [
+			{
+				"line": 283,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 291,
+				"column": 2,
+				"label": ""
+			},
+			{
+				"line": 342,
+				"column": 24,
+				"label": ""
+			},
+			{
+				"line": 421,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 473,
+				"column": 24,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/Parser.js",
+		"bookmarks": [
+			{
+				"line": 2252,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 2260,
+				"column": 9,
+				"label": ""
+			},
+			{
+				"line": 2377,
+				"column": 1,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/Compiler.js",
+		"bookmarks": [
+			{
+				"line": 246,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 320,
+				"column": 10,
+				"label": ""
+			},
+			{
+				"line": 649,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 658,
+				"column": 14,
+				"label": ""
+			},
+			{
+				"line": 664,
+				"column": 17,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/webpack.js",
+		"bookmarks": [
+			{
+				"line": 24,
+				"column": 0,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/node_modules/webpack-cli/bin/cli.js",
+		"bookmarks": [
+			{
+				"line": 271,
+				"column": 4,
+				"label": ""
+			},
+			{
+				"line": 351,
+				"column": 4,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/buildChunkGraph.js",
+		"bookmarks": [
+			{
+				"line": 147,
+				"column": 6,
+				"label": ""
+			},
+			{
+				"line": 553,
+				"column": 6,
+				"label": ""
+			},
+			{
+				"line": 649,
+				"column": 6,
+				"label": ""
+			},
+			{
+				"line": 666,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 677,
+				"column": 1,
+				"label": ""
+			}
+		]
+	}
+]

@@ -10,7 +10,7 @@ const tc = require("./template-common");
 const fs = require("fs");
 const async = require("neo-async");
 
-const extraArgs = "";
+const extraArgs = "--progress";
 
 const targetArgs = global.NO_TARGET_ARGS ? "" : " ./example.js -o dist/output.js ";
 const displayReasons = global.NO_REASONS ? "" : " --display-reasons --display-used-exports --display-provided-exports";
