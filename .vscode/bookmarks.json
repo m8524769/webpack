@@ -43,13 +43,23 @@
 				"label": ""
 			},
 			{
+				"line": 916,
+				"column": 14,
+				"label": ""
+			},
+			{
 				"line": 924,
 				"column": 14,
 				"label": ""
 			},
 			{
-				"line": 951,
+				"line": 943,
 				"column": 13,
+				"label": ""
+			},
+			{
+				"line": 960,
+				"column": 10,
 				"label": ""
 			},
 			{
@@ -68,6 +78,11 @@
 				"label": ""
 			},
 			{
+				"line": 1085,
+				"column": 7,
+				"label": ""
+			},
+			{
 				"line": 1104,
 				"column": 1,
 				"label": ""
@@ -78,18 +93,23 @@
 				"label": ""
 			},
 			{
-				"line": 1256,
+				"line": 1244,
 				"column": 1,
 				"label": ""
 			},
 			{
-				"line": 1272,
+				"line": 1260,
 				"column": 22,
 				"label": ""
 			},
 			{
-				"line": 1288,
+				"line": 1276,
 				"column": 2,
+				"label": ""
+			},
+			{
+				"line": 1481,
+				"column": 1,
 				"label": ""
 			}
 		]
@@ -173,6 +193,11 @@
 		"path": "$ROOTPATH$/lib/Parser.js",
 		"bookmarks": [
 			{
+				"line": 1241,
+				"column": 1,
+				"label": ""
+			},
+			{
 				"line": 2252,
 				"column": 1,
 				"label": ""
@@ -185,6 +210,11 @@
 			{
 				"line": 2377,
 				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 2408,
+				"column": 10,
 				"label": ""
 			}
 		]
@@ -225,6 +255,11 @@
 			{
 				"line": 24,
 				"column": 0,
+				"label": ""
+			},
+			{
+				"line": 73,
+				"column": 2,
 				"label": ""
 			}
 		]
@@ -269,6 +304,21 @@
 			},
 			{
 				"line": 677,
+				"column": 1,
+				"label": ""
+			}
+		]
+	},
+	{
+		"path": "$ROOTPATH$/lib/NormalModuleFactory.js",
+		"bookmarks": [
+			{
+				"line": 158,
+				"column": 13,
+				"label": ""
+			},
+			{
+				"line": 372,
 				"column": 1,
 				"label": ""
 			}
